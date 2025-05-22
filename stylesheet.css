@@ -1,0 +1,601 @@
+
+            .total{
+                border: 5px solid red;
+                /*width: 375px;
+                height: auto;
+                margin-top: 0;
+                margin-bottom: 0;
+                margin-left: 0;
+                margin-right: 0;*/
+            }
+            .navbar{
+                position: fixed;
+                margin-top: 0;
+                width: 375px; 
+                z-index: 1;
+                
+            }
+
+            .title_bar{
+                border: 2px solid black;
+                padding: auto;
+                margin-top: 0;
+                width: 100%;
+                height: auto;
+                background-color:black;
+            }
+            .title{
+                text-align: center;
+                font-size: xx-large;
+                color: white;
+                font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            }
+            .mobile_numbers{
+                
+                padding: auto;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom: 2%;
+                
+            }
+            .mobile_no1{
+                display: inline;
+                width: auto;
+                margin: 5px;
+                text-align: center;
+                margin-left: 10%;
+                color: white;
+            }
+            .mobile_no2{
+                display: inline;
+                width: auto;
+                margin: 5px;
+                text-align: center;
+                color: white;
+                
+            }
+            .mobile_no3{
+                display: inline;
+                width: auto;
+                margin: 5px;
+                text-align: center;
+                margin-right: 10%;
+                color: white;
+            }
+            .top_first{
+                margin-top: 130px;
+                padding: 100px;
+                position: relative;
+                z-index: 0;
+                height: 400px;
+                background-color: aqua;
+                border: 2px solid black;
+                
+
+            }
+            .about{
+                border: 2px solid black;
+                padding: 100px; ;
+                margin: 0;
+                width: 100%;
+                height: 100px;
+                margin-top: -100px;
+                margin-left: -100px;
+                
+            }
+            .about_title{
+
+            }
+            .about_content{
+
+            }
+            .about_landscaping{
+                border: 2px solid black;
+                padding: 100px;
+                margin: 0;
+                width: 100%;
+                height: 100px;
+                margin-left: -100px;
+                margin-bottom: 0;
+
+
+            }
+            .about_landscaping_title{
+
+            }
+            .about_landscaping_content{
+
+            }
+            .our_services{
+                border: 2px solid black;
+                padding: auto;
+                background-color: aquamarine;
+                height: auto;
+
+
+            }
+            .our_services_title{
+
+
+            }
+            
+            .landscaping_design{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 220px;
+
+            }
+            .landscaping_design_title{
+
+            }
+            .landscaping_design_content{
+
+            }
+            .landscaping_design_image{
+
+            }
+            .landscaping{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 220px;
+
+            }
+            .landscaping_title{
+
+            }
+            .landscaping_content{
+
+            }
+            .landscaping_image{
+
+            }
+            .terrace_gardening{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 220px;
+
+            }
+            .terrace_gardening_title{
+
+            }
+            .terrace_gardening_content{
+
+            }
+            .terrace_gardening_image{
+
+            }
+            .fountain{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 220px;
+
+            }
+            .fountain_title{
+
+            }
+            .fountain_content{
+
+            }
+            
+            .fountain_image{
+            
+            }
+            .our_client{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                z-index: 3;
+                height: 950px;
+                position: relative;
+                background-color: bisque;
+
+            }
+            .our_client_title{
+
+            }
+            .our_client_logo{
+                padding: auto;
+                height: 95%;
+                border: 2px solid black;
+
+
+            }
+            .cub_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+            }
+            .narayani_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+                
+
+            }
+            .arr_school_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+
+            }
+            .cavery_school_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+
+            }
+            .sri_balaji_homestay_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+
+
+            }
+            .arasu_engg_clg_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+                
+            }
+            .kum_gov_hospital_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+                
+            }
+            .thanjavur_municipaloffice__logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin: 10%;
+                
+            }
+            .another_logo{
+                padding: auto;
+                width: 100px;
+                height: 100px;
+                border: 2px solid black;
+                margin-left: 130px;
+                
+            }
+            .some_clients_feedback{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 480px;
+                z-index: 3;
+                position: relative;
+                background-color: bisque;
+            }
+            .feedback_group{
+                display: flex;
+                flex-direction: row;
+                overflow:  auto;
+
+
+            }
+            .feedback_title{
+                
+            }
+            .feedback1{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: burlywood;
+            }
+            .feedback1_name{
+                
+            }
+            .feedback1_feedback{
+
+            }
+            .feedback2{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: burlywood;
+                
+            }
+            .feedback2_name{
+                
+            }
+            .feedback2_feedback{
+                
+            }
+            .feedback3{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: burlywood;
+                
+            }
+            .feedback3_name{
+                
+            }
+            .feedback3_feedback{
+                
+            }
+            .feedback4{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: burlywood;
+            }
+            .feedback4_name{
+                
+            }
+            .feedback4_feedback{
+                
+            }
+            .feedback5{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: burlywood;
+            }
+            .feedback5_name{
+                
+            }
+            .feedback5_feedback{
+                
+            }
+            .feedback6{
+                padding: auto;
+                border: 2px solid black;
+                width: 300px;
+                height: 400px;
+                background-color: bisque;
+                
+            
+            }
+            .feedback6_name{
+                
+            }   
+            .feedback6_feedback{
+
+            }
+            .gallery{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 500px;
+                z-index: 3;
+                position: relative;
+                background-color: khaki;
+            }
+            .gallery_title{
+
+            }
+            .gallery_out{
+
+            }
+            .gallery_1{
+                display: flex;
+                flex-direction: row;
+                overflow:  auto;
+
+            }
+            .g1_image1{
+            
+            }
+            .g1_img1{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image2{
+                
+            }
+            .g1_img2{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .g1_image3{
+                
+            }
+            .g1_img3{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image4{
+                
+            }
+            .g1_img4{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image5{
+                
+            }
+            .g1_img5{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+            }
+            .g1_image6{
+                
+            }
+            .g1_img6{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image7{
+                
+            }
+            .g1_img7{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image8{
+                
+            }
+            .g1_img8{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g1_image9{
+                
+            }
+            .g1_img9{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+            }
+            .gallery_2{
+                display: flex;
+                flex-direction:row;
+                overflow:  auto;
+                flex-flow: auto;
+
+            }
+            .g2_image1{
+
+            }
+            .g2_img1{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+            }
+            .g2_image2{
+
+            }
+            .g2_img2{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .g2_image3{
+
+            }
+            .g2_img3{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .g2_image4{
+
+            }
+            .g2_img4{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .g2_image5{
+
+            }
+            .g2_img5{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .g2_image6{
+
+            }
+            .g2_img6{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+            }
+            .g2_image7{
+
+            }
+            .g2_img7{
+
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+            }
+            .g2_image8{
+
+            }
+            .g2_img8{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+                
+            }
+            .g2_image9{
+
+            }
+            .g2_img9{
+                padding: auto;
+                border: 2px solid black;
+                height: 200px;
+                width: 200px;
+
+            }
+            .contact{
+                border: 2px solid black;
+                padding: auto;
+                margin: 0;
+                width: 100%;
+                height: 300px;
+            }
+            .contact_title{
+
+            }
